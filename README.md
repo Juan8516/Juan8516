@@ -1,9 +1,10 @@
-### <h1>👋 About Me <h1/>
+### <h1>👋 Sobre mi <h1/>
 
 <h2>👋 Hola, Soy Juan Manuel<h2/>
 Bienvenido a mi perfil de GitHub, donde la programación y React son mi pasión. Disfruto de un buen café mientras desarrollo proyectos familiares. Aquí encontrarás código limpio y eficiente, resultado de mi amor por la tecnología. ### 
 
-<h2>👋 Hola, Soy Juan Manuel<h2/>
+### <h1>👋 About Me <h1/>
+<h2>👋 Hi, Soy Juan Manuel<h2/>
 ###  Welcome to my GitHub profile, where programming and React are my passions. I enjoy a good cup of coffee while working on family-related projects. Here, you'll find clean and efficient code born from my love for technology. 
 
 ## 🌐 Socials:
