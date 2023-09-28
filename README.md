@@ -1,5 +1,4 @@
 # 👋 Sobre mi
-
 <h2>👋 Hola, Soy Juan Manuel<h2/>
 <p> Bienvenido a mi perfil de GitHub, donde la programación y React son mi pasión. Disfruto de un buen café mientras desarrollo proyectos familiares. Aquí encontrarás código limpio y eficiente, resultado de mi amor por la tecnología. <p/>
 
