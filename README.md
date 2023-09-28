@@ -2,7 +2,7 @@
 <h2>👋 Hola, Soy Juan Manuel<h2/>
 <p> Bienvenido a mi perfil de GitHub, donde la programación y React son mi pasión. Disfruto de un buen café mientras desarrollo proyectos familiares. Aquí encontrarás código limpio y eficiente, resultado de mi amor por la tecnología. <p/>
 
-#👋 About Me
+# 👋 About Me
 <h2>👋 Hi, Soy Juan Manuel<h2/>
 <p> Welcome to my GitHub profile, where programming and React are my passions. I enjoy a good cup of coffee while working on family-related projects. Here, you'll find clean and efficient code born from my love for technology. <p/>
 
