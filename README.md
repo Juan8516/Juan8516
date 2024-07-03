@@ -1,10 +1,10 @@
 # 👋 Sobre mi
 <h2>👋 Hola, Soy Juan Manuel<h2/>
-<p> Soy un estudiante de Ingeniería Multimedia apasionado por la tecnología y la creación de experiencias interactivas. Tengo experiencia en el desarrollo de aplicaciones web utilizando React y en la programación de videojuegos. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas complejos. <p/>
+<p>Soy un estudiante de Ingeniería Multimedia con muchas ganas de introducirme en el mundo de la tecnología. Tengo conocimientos en el desarrollo de aplicaciones web usando React y en la programación de videojuegos. Tengo ganas de aprender nuevas tecnologías y aplicar mis habilidades para resolver problemas complejos. Busco activamente oportunidades laborales en las que pueda aportar y crecer profesionalmente.<p/>
 
 # 👋 About Me
 <h2>👋 Hi, Soy Juan Manuel<h2/>
-<p> I am a Multimedia Engineering student passionate about technology and creating interactive experiences. I have experience in developing web applications using React and programming video games. I love learning new technologies and applying my knowledge to solve complex problems. <p/>
+<p>I am a Multimedia Engineering student with a strong desire to enter the technology world. I have knowledge in developing web applications using React and programming video games. I am eager to learn new technologies and apply my skills to solve complex problems. I am actively seeking job opportunities where I can contribute and grow professionally.<p/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-salazar-149b19113/) 
