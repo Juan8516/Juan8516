@@ -1,10 +1,10 @@
 # 👋 Sobre mi
 <h2>👋 Hola, Soy Juan Manuel<h2/>
-<p> Bienvenido a mi perfil de GitHub, donde la programación web es mi pasión. Disfruto de un buen café mientras desarrollo proyectos familiares. Aquí encontrarás código limpio y eficiente, resultado de mi amor por la tecnología. <p/>
+<p> Soy un estudiante de Ingeniería Multimedia apasionado por la tecnología y la creación de experiencias interactivas. Tengo experiencia en el desarrollo de aplicaciones web utilizando React y en la programación de videojuegos. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas complejos. <p/>
 
 # 👋 About Me
 <h2>👋 Hi, Soy Juan Manuel<h2/>
-<p> Welcome to my GitHub profile, where web programming is my passion. I enjoy a good cup of coffee while working on family-related projects. Here, you'll find clean and efficient code born from my love for technology. <p/>
+<p> I am a Multimedia Engineering student passionate about technology and creating interactive experiences. I have experience in developing web applications using React and programming video games. I love learning new technologies and applying my knowledge to solve complex problems. <p/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-salazar-149b19113/) 
